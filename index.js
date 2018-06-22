@@ -28,5 +28,5 @@ function switchOnCharmFromTip(tip){
   }
 }
 
-switch
+switch(switchOncharmFromTip)
     
