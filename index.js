@@ -27,4 +27,6 @@ function switchOnCharmFromTip(tip){
     return 'Thank you so much.';
   }
 }
+
+switch
     
