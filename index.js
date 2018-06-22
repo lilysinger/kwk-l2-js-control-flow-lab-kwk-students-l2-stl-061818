@@ -12,10 +12,6 @@ function scuberGreetingForFeet(feet){
 }
 
 
-
-
-  
-
 function ternaryCheckCity(){
   return 1
   
