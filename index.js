@@ -29,6 +29,8 @@ function switchOnCharmFromTip(tip){
 }
 
 switch(switchOncharmFromTip){
-  case generous
+  case generous:
+    
+    case 
 }
     
