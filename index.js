@@ -22,7 +22,7 @@ function ternaryCheckCity(city){
   }
 }
 
-function switchOnCharmFromTip(){
-  if()
+function switchOnCharmFromTip(tip){
+  if('generous' == tip)
 
 }
