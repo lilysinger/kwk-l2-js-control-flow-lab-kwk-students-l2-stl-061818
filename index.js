@@ -13,7 +13,9 @@ function scuberGreetingForFeet(feet){
 
 
 function ternaryCheckCity(){
-  return 1
+  
+  if ()
+  return 'Ok, sounds good.';
   
 }
 
