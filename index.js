@@ -27,12 +27,4 @@ function switchOnCharmFromTip(tip){
 }
 
 
-switch(switchOncharmFromTip){
-  case generous:
-    
-    case not as generous: 
-      
-      case thanks for everything: 
-        
-}
     
