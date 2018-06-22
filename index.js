@@ -29,6 +29,6 @@ function switchOnCharmFromTip(tip){
 }
 
 switch(switchOncharmFromTip){
-  
+  case
 }
     
